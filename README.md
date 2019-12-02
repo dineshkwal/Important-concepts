@@ -1,5 +1,3 @@
-# Computer science
-
 Operating systems
 ----------------
 - [Great series introducing operating system concepts](https://www.youtube.com/playlist?list=PLTZbNwgO5ebqnympIYe2GX4hjjsS9Psdm)
